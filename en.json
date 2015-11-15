@@ -1,5 +1,5 @@
 {
- "HEADLINE": "Hello da!",
- "LANG_DE_DE": "Sprache: Deutsch",
- "LANG_EN_US": "Sprache: Englisch"
+    "HEADLINE": "Title", 
+    "LANG_DE_DE": "Language: German", 
+    "LANG_EN_US": "Language: English"
 }
